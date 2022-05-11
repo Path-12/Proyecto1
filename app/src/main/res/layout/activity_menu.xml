@@ -42,7 +42,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.056"
-        app:srcCompat="@mipmap/usuarioB" />
+        app:srcCompat="@mipmap/usuariob" />
 
     <Button
         android:id="@+id/buttonSN_M"
